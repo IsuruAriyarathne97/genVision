@@ -1,0 +1,8 @@
+__MACOSX/
+data/__MACOSX/
+
+**/data/all-dogs/
+**/data/Annotation/
+
+*.jpg
+*.zip
