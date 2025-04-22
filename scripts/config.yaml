@@ -1,0 +1,6 @@
+data_dir: "generative-dog-images/data/"
+num_classes: 5
+num_epochs: 30
+batch_size: 32
+learning_rate: 0.0005
+model_path: "best_model.pth"
