@@ -6,3 +6,6 @@ data/__MACOSX/
 
 *.jpg
 *.zip
+
+.DS_Store
+**/.DS_Store 
